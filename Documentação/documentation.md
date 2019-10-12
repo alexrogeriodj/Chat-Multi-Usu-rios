@@ -1,0 +1,27 @@
+- Prologue
+    - [Release Notes](/docs/{{version}}/releases)
+    - [Upgrade Guide](/docs/{{version}}/upgrade)
+- Getting Started
+    - [Installation](/docs/{{version}}/installation)
+    - [Configuration](/docs/{{version}}/configuration)
+- The Basics
+    - [Routing](/docs/{{version}}/routing)
+    - [Middleware](/docs/{{version}}/middleware)
+    - [Controllers](/docs/{{version}}/controllers)
+    - [Requests](/docs/{{version}}/requests)
+    - [Responses](/docs/{{version}}/responses)
+- More Features
+    - [Authentication](/docs/{{version}}/authentication)
+    - [Authorization](/docs/{{version}}/authorization)
+    - [Cache](/docs/{{version}}/cache)
+    - [Database](/docs/{{version}}/database)
+    - [Encryption](/docs/{{version}}/encryption)
+    - [Errors & Logging](/docs/{{version}}/errors)
+    - [Events](/docs/{{version}}/events)
+    - [Mail](/docs/{{version}}/mail)
+    - [Queues](/docs/{{version}}/queues)
+    - [Service Container](/docs/{{version}}/container)
+    - [Service Providers](/docs/{{version}}/providers)
+    - [Testing](/docs/{{version}}/testing)
+    - [Validation](/docs/{{version}}/validation)
+    - [Views](/docs/{{version}}/views)
